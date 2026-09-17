@@ -168,9 +168,15 @@ The analysis specifically identifies products with high sales but negative total
 
 <b>Action:</b> Review pricing, discounting, product costs, and shipping-related expenses for loss-making products before increasing their sales volume.
 
+## 9. Tools & Technologies
 
-
-
+* <b>Python</b> — Data cleaning, validation, EDA
+* <b>Pandas / NumPy</b> — Data manipulation and analysis
+* <b>Matplotlib / Seaborn</b> — Exploratory visualization
+* <b>SQL</b> — Business analysis and aggregation
+* <b>Power BI</b> — Interactive dashboard development
+* <b>DAX</b> — KPI and analytical measures
+* <b>Git / GitHub</b> — Version control and project portfolio
 
 
 
