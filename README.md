@@ -91,6 +91,110 @@ The analysis includes:
 9. High-revenue products generating negative profit.
 10. Shipping-mode performance.
 
+The SQL analysis uses aggregation, filtering, ranking, CTEs, CASE WHEN, RANK(), GROUP BY, and other analytical SQL techniques.
+
+## 6. Key Metrics
+The Power BI dashboard uses business-focused KPIs including:
+
+* Total Revenue
+* Total Profit
+* Profit Margin
+* Total Orders
+* Total Customers
+* Average Order Value (AOV)
+* Total Quantity
+* Profit per Unit
+* Revenue Share
+
+These metrics are used across the dashboard to evaluate overall business performance and identify areas requiring attention.
+
+## 7. Power BI Dashboard
+
+The dashboard is divided into three analytical pages.
+
+### Overview
+
+Provides a high-level view of:
+
+* Revenue and profit trends
+* Profit margin trends
+* Regional performance
+* Segment performance
+* Revenue share by category
+* Key business insights and actions
+
+
+### Customer Analysis
+
+Focuses on customer and segment performance, including:
+
+* Customer KPIs
+* Orders by segment
+* Revenue and profit by segment
+* Average Order Value by category
+* Customer distribution by country
+* Regional customer performance
+* Customer-level detail
+
+
+### Product Analysis
+
+Focuses on product and category performance, including:
+
+* Revenue and profit KPIs
+* Quantity sold
+* Profit per unit
+* Revenue share by category
+* Top-selling products
+* Loss-making products
+
+## 8. Key Insights & Actions
+
+### Insight 1 — Revenue growth does not automatically mean stronger profitability
+
+Revenue and profit should be evaluated together because higher sales volume does not necessarily translate into proportional profit growth.
+
+<b>Action:</b> Monitor profit margin alongside revenue when evaluating yearly and regional performance.
+
+### Insight 2 — Discount levels can have a significant impact on profitability
+
+The SQL analysis compares revenue, profit, and profit margin across different discount ranges, allowing high-discount segments to be evaluated against their profitability.
+
+<b>Action:</b> Review high-discount products and categories to identify cases where additional sales volume is not generating sufficient profit.
+
+### Insight 3 — High-revenue products are not always profitable
+
+The analysis specifically identifies products with high sales but negative total profit.
+
+<b>Action:</b> Review pricing, discounting, product costs, and shipping-related expenses for loss-making products before increasing their sales volume.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
