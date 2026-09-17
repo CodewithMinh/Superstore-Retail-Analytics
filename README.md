@@ -8,3 +8,18 @@ This project analyzes the Superstore retail dataset to understand business perfo
 
 The project follows an end-to-end data analytics workflow, from raw data cleaning and exploratory data analysis to SQL-based business analysis and interactive Power BI dashboard development.
 
+## 2. Business Problem
+
+A global retail business needs to understand what drives revenue and profitability across its products, customers, regions, and operations.
+The analysis aims to answer key business questions such as:
+
+* How do revenue and profit change over time?
+* Which product categories generate the highest revenue and profit?
+* Which regions perform best?
+* Which products generate the highest sales and profit?
+* How does discount level affect profitability?
+* Which customer segment creates the most business value?
+* Which customers generate the highest profit?
+* Which products sell the most within each category?
+* Which products generate high revenue but result in losses?
+* Which shipping methods provide the best business performance?
