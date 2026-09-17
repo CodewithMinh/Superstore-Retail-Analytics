@@ -47,6 +47,54 @@ Key fields include:
 * Shipping Cost
 
 ## 4. Data Preparation & EDA
+
 Python was used for data inspection, cleaning, validation, and exploratory analysis.
 
 ### Data Cleaning
+
+The following checks and transformations were performed:
+
+* Inspected dataset structure, data types, and descriptive statistics.
+* Checked for duplicate records.
+* Checked for missing values.
+* Removed the redundant 记录数 column.
+* Converted Order.Date and Ship.Date into datetime format.
+* Validated Sales, Profit, Discount, Quantity, and Shipping Cost values.
+* Checked duplicate Row.ID, Customer ID, and Product ID values.
+* Reviewed categorical distributions across Category, Segment, Market, and Ship Mode.
+
+### Exploratory Data Analysis
+
+EDA included:
+
+* Distribution analysis of Sales, Profit, Quantity, Discount, and Shipping Cost.
+* Boxplot analysis to identify potential outliers.
+* Correlation analysis between numerical variables.
+* Category, segment, market, and shipping-mode distribution analysis.
+
+Outliers were identified during EDA and reviewed as part of the analysis rather than automatically removing them.
+
+## 5. SQL Analysis
+
+SQL was used to answer business questions and generate aggregated datasets for analysis.
+
+The analysis includes:
+
+1. Revenue and profit trends by year.
+2. Revenue and profit performance by category.
+3. Business performance by region.
+4. Product-level sales, profit, and quantity analysis.
+5. Profitability across discount levels.
+6. Customer segment performance.
+7. Top 10 customers by total profit.
+8. Best-selling product within each category.
+9. High-revenue products generating negative profit.
+10. Shipping-mode performance.
+
+
+
+
+
+
+
+
