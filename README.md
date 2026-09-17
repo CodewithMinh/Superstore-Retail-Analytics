@@ -1,6 +1,6 @@
 # Superstore-Retail-Analytics
 
-Cleaning and exploring retail sales data with Python, analyzing revenue, profitability, customer and product performance using SQL, and building an interactive Power BI dashboard.
+<img width="1908" height="997" alt="image" src="https://github.com/user-attachments/assets/d6b18e64-1f61-4444-9343-7db36dd3a780" />
 
 ## 1. Project Overview
 
