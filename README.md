@@ -178,6 +178,25 @@ The analysis specifically identifies products with high sales but negative total
 * <b>DAX</b> — KPI and analytical measures
 * <b>Git / GitHub</b> — Version control and project portfolio
 
+### 10. Repository Structure
+
+```text
+superstore-retail-analytics/
+├── README.md
+├── data/
+│   ├── superstore.csv
+│   └── superstore_cleaned.csv
+├── python/
+│   └── superstore_project.ipynb
+├── sql/
+│   └── global_superstore.sql
+├── dashboard/
+│   └── superstore.pbix
+└── screenshots/
+    ├── overview.png
+    ├── customer_analysis.png
+    └── product_analysis.png
+```
 
 
 
