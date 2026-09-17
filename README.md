@@ -178,7 +178,7 @@ The analysis specifically identifies products with high sales but negative total
 * <b>DAX</b> — KPI and analytical measures
 * <b>Git / GitHub</b> — Version control and project portfolio
 
-### 10. Repository Structure
+## 10. Repository Structure
 
 ```text
 superstore-retail-analytics/
@@ -198,10 +198,31 @@ superstore-retail-analytics/
     └── product_analysis.png
 ```
 
+## 11. Project Workflow
 
+```text
+Raw Data
+   ↓
+Data Inspection
+   ↓
+Data Cleaning & Validation
+   ↓
+Exploratory Data Analysis
+   ↓
+SQL Business Analysis
+   ↓
+DAX Measures
+   ↓
+Power BI Dashboard
+   ↓
+Business Insights & Actions
+```
 
+## 12. Conclusion
 
+This project demonstrates an end-to-end Data Analyst workflow using Python, SQL, and Power BI to transform raw retail transaction data into business-focused analysis and interactive dashboards.
 
+The analysis focuses not only on reporting sales performance, but also on understanding profitability, customer segments, product performance, discount impact, and operational factors that can support business decision-making.
 
 
 
