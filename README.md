@@ -5,7 +5,6 @@ Cleaning and exploring retail sales data with Python, analyzing revenue, profita
 ## 1. Project Overview
 
 This project analyzes the Superstore retail dataset to understand business performance across different years, regions, customer segments, product categories, and shipping methods.
-
 The project follows an end-to-end data analytics workflow, from raw data cleaning and exploratory data analysis to SQL-based business analysis and interactive Power BI dashboard development.
 
 ## 2. Business Problem
@@ -23,3 +22,31 @@ The analysis aims to answer key business questions such as:
 * Which products sell the most within each category?
 * Which products generate high revenue but result in losses?
 * Which shipping methods provide the best business performance?
+
+## 3. Dataset
+The raw dataset contains 51,290 records and 27 columns covering sales transactions across customers, products, regions, markets, and shipping methods.
+Key fields include:
+
+* Order Date
+* Ship Date
+* Customer ID
+* Customer Name
+* Product ID
+* Product Name
+* Category
+* Sub-Category
+* Segment
+* Sales
+* Profit
+* Quantity
+* Discount
+* Region
+* Country
+* State
+* Ship Mode
+* Shipping Cost
+
+## 4. Data Preparation & EDA
+Python was used for data inspection, cleaning, validation, and exploratory analysis.
+
+### Data Cleaning
