@@ -121,6 +121,9 @@ The dashboard is divided into three analytical pages.
 
 ### Overview
 
+<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/7976fdb2-27c1-4589-b395-1c34d196a21c" />
+
+
 Provides a high-level view of:
 
 * Revenue and profit trends
@@ -130,9 +133,10 @@ Provides a high-level view of:
 * Revenue share by category
 * Key business insights and actions
 
-![Overview](screenshots/overview.png)
-
 ### Customer Analysis
+
+<img width="1915" height="996" alt="image" src="https://github.com/user-attachments/assets/bc6bc3f2-30c7-41ec-bb08-15ccae374a0b" />
+
 
 Focuses on customer and segment performance, including:
 
@@ -144,9 +148,10 @@ Focuses on customer and segment performance, including:
 * Regional customer performance
 * Customer-level detail
 
-![Customer Analysis](screenshots/customer-analysis.png)
-
 ### Product Analysis
+
+<img width="1915" height="998" alt="image" src="https://github.com/user-attachments/assets/9ad9d7dd-b7b0-478f-aaf4-a343aab8d80b" />
+
 
 Focuses on product and category performance, including:
 
@@ -156,8 +161,6 @@ Focuses on product and category performance, including:
 * Revenue share by category
 * Top-selling products
 * Loss-making products
-
-![Product Analysis](screenshots/product-analysis.png)
 
 ## 8. Key Insights & Actions
 
